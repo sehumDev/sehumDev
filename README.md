@@ -1,6 +1,7 @@
 ### Hi I'm sehum 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehumDev&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehumDev&show_icons=true&theme=radical) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehumDev&hide=stars&hide_title=true&show_icons=true&icon_color=333&title_color=333&text_color=777&count_private=true&include_all_commits=true)
 
 <!--
 **sehumDev/sehumDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
